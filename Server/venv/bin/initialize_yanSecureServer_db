@@ -1,0 +1,10 @@
+#!/Users/shadyrafehi/yansecure/Server/venv/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'yanSecureServer==0.0','console_scripts','initialize_yanSecureServer_db'
+__requires__ = 'yanSecureServer==0.0'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('yanSecureServer==0.0', 'console_scripts', 'initialize_yanSecureServer_db')()
+    )

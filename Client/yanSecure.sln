@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yanSecure", "yanSecure\yanSecure.csproj", "{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Release|iPhone.Build.0 = Release|iPhone
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{72FB72B5-F230-4897-A20B-1F0C9F5D8CBF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = yanSecure\yanSecure.csproj
+	EndGlobalSection
+EndGlobal

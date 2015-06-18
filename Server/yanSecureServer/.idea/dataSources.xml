@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3806351831">
+    <data-source source="LOCAL" name="yanSecureServer" uuid="c2d3d73d-d863-44a2-95d3-55be9142c205">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/yanSecureServer.sqlite</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
